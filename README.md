@@ -7,5 +7,12 @@ I have been attempting to learn Japanese kanji and became curious about how a co
     * This just seems to be a one-to-many mapping between hiragana and possible kanji ([Wikipedia article on this](https://en.wikipedia.org/wiki/Japanese_input_method#Kana_to_kanji_conversion)).
     * How does the computer deal with onyomi and kunyomi readings (especially when they mix)? Are all of the possible combinations really stored in some map?
 
+## Mini Goals
+- [x] Do basic research on what kanji libraries exist
+- [ ] Read some research papers and articles on the algorithms behind kanji handwriting recognition
+- [ ] Install a basic kanji handwriting library in some app (Android, web, etc.) and try using it
+
 ## Repository Organization
-* `doc/` contains documentation and resources that I used, and my notes on some reading
+* `res/` contains resources that I used for learning, and my notes on some reading
+* `doc/` documentation on any code I write, such as for `KanjiDrawer`
+* `KanjiDrawer` Android app to test out a kanji recognition library

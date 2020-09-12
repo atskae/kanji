@@ -1,38 +1,44 @@
-# Documentation and Resources
-Compiled list of my notes and reading. Paper notes are named with the same name as the PDF in `papers/`, but as a Markdown file `.md`.
-* `papers/` contain research papers for offline reading
+# Documentation
+For now, these are notes on using the [kanji recognition for Android](https://github.com/ichisadashioko/kanji-recognition-android) in experiment `KanjiDrawer`.
 
-## Kanji Libraries and Datasets
+## Steps
+1. Create a new Android Studio project
+2. Install [Android NDK](https://developer.android.com/ndk/guides), which allows you to run native C/C++ code in an Android project.
+    * Followed these [NDK and CMake installation instructions](https://developer.android.com/studio/projects/install-ndk#default-version), which can easily be done through `Tools > SDK Manager` in Android Studio.
+3. Add `tensorflow-lite` to `app/build.gradle` dependencies (don't add to the `root/` dependencies!)
 
-### Handwriting Recognition
-* [Zinnia](http://taku910.github.io/zinnia/) library seems popular with mobile apps (for [Swift](https://github.com/tuanna-hsp/kanji-handwriting-swift), [Android](https://github.com/ichisadashioko/kanji-recognition-android), [Java](https://github.com/quen/kanjirecog))
-* [Tegaki Project](https://tegaki.github.io/) (which actually uses Zinnia), also called Wagomu
-    * [ctegaki](https://github.com/asdfjkl/ctegaki-lib) by the author of the `klein2019.pdf` paper [stroke correspondence problem, revisited](https://arxiv.org/pdf/1909.11995.pdf)
-* [KanjiVG](https://github.com/KanjiVG/kanjivg): stroke order and vectors of kanji
+```
+dependencies {
+    ...
+    // Tensorflow Lite library
+    implementation 'org.tensorflow:tensorflow-lite:0.0.0-nightly'
+}
+```
 
-### Other
-* A lot of information on kanji datasets from [Jisho About page](https://jisho.org/about), including:
-    * Kanji readings
-    * Stroke order
-    * Example sentences
-    * Radicals
-    * Stroke order (KanjiVG)
-* [Pykakasi](https://github.com/miurahr/pykakasi): Python library for kanji/kana conversion (text-based only)
+4. Sync gradle file
 
-## Kanji Apps
-Helpful to study how other apps includes the kanji recognition feature
-* [Jisho](https://jisho.org) 
-* [Kanji Canvas](https://asdfjkl.github.io/kanjicanvas/) and [source](https://github.com/asdfjkl/kanjicanvas) (author of `klein2019.pdf` paper)
-* [Kanji Recognizer](https://sites.google.com/site/kanjirecognizer/acknowledgments?authuser=0)
-* [Japanese app](https://www.japaneseapp.com/sources/)
-* [Kanji alive](https://github.com/kanjialive/)
+5. Create an `assets/` folder in my Android project by right-clicking on the `app/` folder in Android Studio and clicking `New > Folder > Assets Folder`. Chose default options (create in `main/`)
 
-## Reading
-* Many [algorithms on kanji](https://scholar.google.com/scholar?hl=en&as_sdt=0,33&q=kanji+algorithm) just with a quick Google Scholar search
-    * [Stroke Correspondence Problem, Revisited](https://arxiv.org/pdf/1909.11995.pdf) Dec 2019, which cites Zinnia and the Tegaki Project
-* [GitHub search on kanji](https://github.com/search?q=kanji)
-* A class report on using [CNNs to recognize kanji](http://cs231n.stanford.edu/reports/2016/pdfs/262_Report.pdf)
-    * This method is for recognizing kanji *already drawn*, versus recognizing kanji drawn on the fly (and filtering out kanji based on the current strokes drawn)
-        * How different are these two methods?
-* [Tutorial on using CNN to recognize hiragana/katagana](https://www.freecodecamp.org/news/build-a-handwriting-recognizer-ship-it-to-app-store-fcce24205b4b/)
-* [Japanese language and computers](https://en.wikipedia.org/wiki/Japanese_language_and_computers), which is about how Japanese characters are encoded into bytes.
+6. Git clone the [kanji-recognition-android project](https://github.com/ichisadashioko/kanji-recognition-android) and copy their `tflite` model from their app's `assets/` folder into your project's `assets/` folder.
+
+7. Add `noCompress` option to `app/build.gradle` file so that the `tflite` file will not be compressed:
+
+```
+android {
+    ...
+    aaptOptions {
+        noCompress 'tflite'
+    }
+}
+```
+
+8. At the top of `MainActivity.java`, import the `Interpreter` class from `tensorflow.lite`:
+
+```
+import org.tensorflow.lite.Interpreter;
+```
+If errors occur here, make sure that `tensoreflow-lite` was added to `app/build.gradle` (step 3) and the gradle file was synced (step 4).
+
+## Errors
+* Got an `No version of NDK...` error. Deleted the `ndk/` directories by following [this solution](https://github.com/gradle/gradle/issues/12440#issuecomment-601214647).
+* [Converting an InputStream to a MappedByteBuffer](https://stackoverflow.com/questions/19616023/converting-inputstream-to-mappedbytebuffer-in-java)

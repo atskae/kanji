@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Kanji Drawer</string>
+    <string name="model_filename">etlcb_9b_model.tflite</string>
+</resources>
