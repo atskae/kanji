@@ -42,3 +42,4 @@ If errors occur here, make sure that `tensoreflow-lite` was added to `app/build.
 ## Errors
 * Got an `No version of NDK...` error. Deleted the `ndk/` directories by following [this solution](https://github.com/gradle/gradle/issues/12440#issuecomment-601214647).
 * [Converting an InputStream to a MappedByteBuffer](https://stackoverflow.com/questions/19616023/converting-inputstream-to-mappedbytebuffer-in-java)
+* [Load and run a model in Java](https://www.tensorflow.org/lite/guide/inference#load_and_run_a_model_in_java) in TensorFlow

@@ -16,3 +16,9 @@ I have been attempting to learn Japanese kanji and became curious about how a co
 * `res/` contains resources that I used for learning, and my notes on some reading
 * `doc/` documentation on any code I write, such as for `KanjiDrawer`
 * `KanjiDrawer` Android app to test out a kanji recognition library
+
+## Random Thought
+* How would I generate a 巨大 graph of all the kanji (including compounds) and connect words based on the kanji in that word? Is this even possible?
+    * So one of many words that 目 would connect with would be 種目, then this word can connect with 目次, etc...
+* This would be helpful for learning new words. For example, let's use 種目 (しゅもく) again. This word uses the onyomi シュ. A kanji with that onyomi is 種類 - しゅるい - species, types of. The second part 目 uses the onyomi モク (same as 目的)
+* There *would* be repeats I guess...
