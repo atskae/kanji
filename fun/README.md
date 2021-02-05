@@ -1,5 +1,5 @@
 # Fun
-Keeping track of amusing realizations I encountered when translating.
+Keeping track of amusing translations I encountered
 
 * 泥棒 - どろぼう - robber = "dirt stick"
 * 気を付ける - きをつける - be careful = "stick the feeling (onto yourself)"
