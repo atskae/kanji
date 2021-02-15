@@ -9,10 +9,14 @@ Keeping track of amusing translations I encountered
 * 気に入ってる - きにいってる - to be pleased with = "the feeling enters you"
 * お前 - you = "(you); in front of (me)"
 * 何回目 - なんかえめ - how many times = "something times (occurrences) eyes"
+* お疲れ様 - おつかれさま - thank you, much appreciated = "A tired (さま)"
+* ただいま - 只今 - I'm home! - "Normal right now"
+* 目指す - めざす - "to aim, goal" = "stick your eye"
+* 勝手にする - かってにする - do arbitrarily = "winning hand"
 
 ## Similar-looking
 * 音 - おと; 昔 - むかし; 普 - フ - universal
-* 何; 伺い - うかがい - pay respects, visit
+* 何; 向こう - むこう; 伺い - うかがい - pay respects, visit
 
 ## Weird-looking
 * 凹凸 - おうとつ - unevenness = "concave convex"
