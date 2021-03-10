@@ -16,6 +16,7 @@ Keeping track of amusing translations I encountered
 * 大人しくして - おとなしくして - behave? be obedient = "(be like) an adult"
 * 色んいな - いろんな - various = "color ..."
 * 思いっ切り - with all one's strength = "thought cut"
+* 起死回生 - きしかいせい - revival - "wake up, dead, many times, life/birth"
 
 ## Similar-looking
 * 音 - おと; 昔 - むかし; 普 - フ - universal
