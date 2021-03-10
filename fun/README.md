@@ -15,12 +15,14 @@ Keeping track of amusing translations I encountered
 * 勝手にする - かってにする - do arbitrarily = "winning hand"
 * 大人しくして - おとなしくして - behave? be obedient = "(be like) an adult"
 * 色んいな - いろんな - various = "color ..."
+* 思いっ切り - with all one's strength = "thought cut"
 
 ## Similar-looking
 * 音 - おと; 昔 - むかし; 普 - フ - universal
 * 何; 向こう - むこう; 伺い - うかがい - pay respects, visit
 * 疲れる; 渡す
 * 訳; 駅
+* 斬新 - ざんしん - original, novel (kill/murder + new)
 
 ## Weird-looking
 * 凹凸 - おうとつ - unevenness = "concave convex"
