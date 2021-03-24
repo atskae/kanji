@@ -17,6 +17,8 @@ Keeping track of amusing translations I encountered
 * 色んいな - いろんな - various = "color ..."
 * 思いっ切り - with all one's strength = "thought cut"
 * 起死回生 - きしかいせい - revival - "wake up, dead, many times, life/birth"
+* 金持ち - rich - "hold money"
+* 苦手 - にがて - not very good at - "bitter hand"
 
 ## Similar-looking
 * 音 - おと; 昔 - むかし; 普 - フ - universal
