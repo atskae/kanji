@@ -33,6 +33,7 @@ Keeping track of amusing translations I encountered
 ## Weird-looking
 * 凹凸 - おうとつ - unevenness = "concave convex"
 * 災い - わざわい - calamity, disaster
+* 巨 - キョ- enormous
 
 ## Same kanji, different meanings
 * 着く - つく - arrive; 着る - きる - wear
