@@ -28,9 +28,11 @@ Keeping track of amusing translations I encountered
 * 疲れる; 渡す
 * 訳; 駅
 * 斬新 - ざんしん - original, novel (kill/murder + new)
+* 木 - 林 - 森 - trees, woods, forest
 
 ## Weird-looking
 * 凹凸 - おうとつ - unevenness = "concave convex"
+* 災い - わざわい - calamity, disaster
 
 ## Same kanji, different meanings
 * 着く - つく - arrive; 着る - きる - wear
