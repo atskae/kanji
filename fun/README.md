@@ -19,6 +19,8 @@ Keeping track of amusing translations I encountered
 * 起死回生 - きしかいせい - revival - "wake up, dead, many times, life/birth"
 * 金持ち - rich - "hold money"
 * 苦手 - にがて - not very good at - "bitter hand"
+* 花火- はなび - fireworks = "flower fire"
+    * 火花 - ひばな - spark = "fire flower" 
 
 ## Similar-looking
 * 音 - おと; 昔 - むかし; 普 - フ - universal
