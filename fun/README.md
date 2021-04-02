@@ -22,6 +22,9 @@ Keeping track of amusing translations I encountered
 * 花火- はなび - fireworks = "flower fire"
     * 火花 - ひばな - spark = "fire flower" 
 
+## Actually makes sense
+* 煮る - にる to boil = "者 as in person, and fire 灬 radical"
+
 ## Similar-looking
 * 音 - おと; 昔 - むかし; 普 - フ - universal
 * 何; 向こう - むこう; 伺い - うかがい - pay respects, visit
