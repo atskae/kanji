@@ -33,6 +33,7 @@ Keeping track of amusing translations I encountered
 * 訳; 駅
 * 斬新 - ざんしん - original, novel (kill/murder + new)
 * 木 - 林 - 森 - trees, woods, forest
+* 未だ, 夫 - おっと
 
 ## Weird-looking
 * 凹凸 - おうとつ - unevenness = "concave convex"
