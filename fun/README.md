@@ -25,6 +25,7 @@ Keeping track of amusing translations I encountered
 ## Actually makes sense
 * 煮る - にる to boil = "者 as in person, and fire 灬 radical"
 * 砂 - すな - sand = "少し - すこし - a little bit; 石 - いし - rock"
+* 大事 - important = "big thing"
 
 ## Similar-looking
 * 音 - おと; 昔 - むかし; 普 - フ - universal
