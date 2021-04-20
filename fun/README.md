@@ -27,6 +27,11 @@ Keeping track of amusing translations I encountered
 * 砂 - すな - sand = "少し - すこし - a little bit; 石 - いし - rock"
 * 大事 - important = "big thing"
 
+## Looks like what they mean
+* 傘 - かさ
+* 飛ぶ - とぶ (I see tiny bird wings);
+* 雨
+
 ## Similar-looking
 * 音 - おと; 昔 - むかし; 普 - フ - universal
 * 何; 向こう - むこう; 伺い - うかがい - pay respects, visit
