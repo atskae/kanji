@@ -21,6 +21,7 @@ Keeping track of amusing translations I encountered
 * 苦手 - にがて - not very good at - "bitter hand"
 * 花火- はなび - fireworks = "flower fire"
     * 火花 - ひばな - spark = "fire flower" 
+* 夕方 - ゆうがた - evening, dusk = "night side"
 
 ## Actually makes sense
 * 煮る - にる to boil = "者 as in person, and fire 灬 radical"
