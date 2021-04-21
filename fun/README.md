@@ -41,6 +41,7 @@ Keeping track of amusing translations I encountered
 * 斬新 - ざんしん - original, novel (kill/murder + new)
 * 木 - 林 - 森 - trees, woods, forest
 * 未だ, 夫 - おっと
+* The まん in 我慢 - がまん and 優しい
 
 ## Weird-looking
 * 凹凸 - おうとつ - unevenness = "concave convex"
