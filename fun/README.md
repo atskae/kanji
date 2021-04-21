@@ -42,6 +42,7 @@ Keeping track of amusing translations I encountered
 * 木 - 林 - 森 - trees, woods, forest
 * 未だ, 夫 - おっと
 * The まん in 我慢 - がまん and 優しい
+* 都 - みやこ; 部 - ブ
 
 ## Weird-looking
 * 凹凸 - おうとつ - unevenness = "concave convex"
