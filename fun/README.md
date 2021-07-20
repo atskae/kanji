@@ -23,6 +23,7 @@ Keeping track of amusing translations I encountered
     * 火花 - ひばな - spark = "fire flower" 
 * 夕方 - ゆうがた - evening, dusk = "night side"
 * 大変 - danger! oh-no! there's trouble! = "big strange"
+* 一体 - いったい - what the heck = "one body"
 
 ## Actually makes sense
 * 煮る - にる to boil = "者 as in person, and fire 灬 radical"
