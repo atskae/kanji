@@ -26,6 +26,7 @@ Keeping track of amusing translations I encountered
 * 大変 - danger! oh-no! there's trouble! = "big strange"
 * 一体 - いったい - what the heck = "one body"
 * 二度と - never again = "two times"
+* 一人一人 - ひとりひとり - each person, one by one = "one person one person"
 
 ## Actually makes sense
 * 煮る - にる to boil = "者 as in person, and fire 灬 radical"
