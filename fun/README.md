@@ -24,6 +24,7 @@ Keeping track of amusing translations I encountered
 * 夕方 - ゆうがた - evening, dusk = "night side"
 * 大変 - danger! oh-no! there's trouble! = "big strange"
 * 一体 - いったい - what the heck = "one body"
+* 二度と - never again = "two times"
 
 ## Actually makes sense
 * 煮る - にる to boil = "者 as in person, and fire 灬 radical"
