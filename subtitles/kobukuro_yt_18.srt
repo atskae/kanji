@@ -919,11 +919,11 @@ Sushi-rice
 "then you have to roll it least 100 times"
 
 231
-00:07:18,000 --> 00:07:19,500
+00:07:18,000 --> 00:07:18,500
 On top of a giant riceball,
 
 232
-00:07:18,000 --> 00:07:20,000
+00:07:18,500 --> 00:07:20,000
 tuna, bam!
 
 233
