@@ -919,15 +919,15 @@ Sushi-rice
 "then you have to roll it least 100 times"
 
 231
-00:07:18,000 --> 00:07:18,500
+00:07:18,000 --> 00:07:19,500
 On top of a giant riceball,
 
 232
-00:07:18,500 --> 00:07:20,000
+00:07:19,500 --> 00:07:21,000
 tuna, bam!
 
 233
-00:07:23,000 --> 00:07:24,900
+00:07:23,750 --> 00:07:24,900
 On a riceball made of sushi rice,
 
 234
@@ -943,7 +943,7 @@ The balance is, off.
 When I'd say, "Isn't the rice kinda big?"
 
 237
-00:07:31,500 --> 00:07:32,000
+00:07:31,100 --> 00:07:32,000
 "Well, with that"
 
 238
@@ -1032,10 +1032,10 @@ Did you realize?
 
 259
 00:08:02,750 --> 00:08:04,000
-Today, um,
+Today, um, um,
 
 260
-00:08:04,250 --> 00:08:05,000
+00:08:04,050 --> 00:08:05,000
 I didn't have spaghetti,
 
 261
@@ -1043,15 +1043,15 @@ I didn't have spaghetti,
 so I used fried noodles.
 
 262
-00:08:07,500 --> 00:08:08,000
+00:08:07,400 --> 00:08:07,900
 Hey. Hey!
 
 263
-00:08:08,000 --> 00:08:08,250
+00:08:07,900 --> 00:08:08,350
 Genius.
 
 264
-00:08:09,000 --> 00:08:10,000
+00:08:09,000 --> 00:08:10,250
 Isn't she a genius?
 
 265
@@ -1063,8 +1063,8 @@ This is ketchup fried noodles!
 Then make fried noodles!
 
 267
-00:08:16,500 --> 00:08:17,900
-Why, why?!
+00:08:16,500 --> 00:08:17,800
+Why?!
 
 268
 00:08:18,000 --> 00:08:20,000
@@ -1124,7 +1124,7 @@ you don't know.
 
 282
 00:08:44,750 --> 00:08:46,000
-*Something* will come from my mom.
+*Something* will come from my mom,
 
 283
 00:08:46,250 --> 00:08:47,500
