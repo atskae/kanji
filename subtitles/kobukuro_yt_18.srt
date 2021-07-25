@@ -83,7 +83,7 @@ the same chicken dishes appear.
 Nothing changes, but,
 
 22
-00:01:03,900 --> 00:01:06,500
+00:01:03,650 --> 00:01:06,500
 Because of that, I am able to notice that I've changed.
 
 23
@@ -99,11 +99,11 @@ it's very...
 I thought of it like that, and thought "oh, right."
 
 26
-00:01:12,750 --> 00:01:15,000
+00:01:12,650 --> 00:01:15,000
 If you go far from your hometown that much,
 
 27
-00:01:16,000--> 00:01:18,250
+00:01:16,100--> 00:01:18,250
 you cover yourself with the part of you that isn't you,
 
 28
@@ -111,19 +111,19 @@ you cover yourself with the part of you that isn't you,
 and that part ends up walking ahead.
 
 29
-00:01:19,900 --> 00:01:20,000
+00:01:19,900 --> 00:01:22,000
 And there are times where you feel like you want to surpass that part.
 
 30
-00:01:20,500 --> 00:01:21,700
+00:01:22,200 --> 00:01:23,500
 "So there are times like that", I thought.
 
 31
-00:01:21,750 --> 00:01:25,100
+00:01:23,550 --> 00:01:25,900
 So to me, the part of my hometown that I imagined,
 
 32
-00:01:25,150 --> 00:01:28,750
+00:01:26,150 --> 00:01:28,750
 the song called "The Flower that only Grows Here",
 
 33
@@ -131,7 +131,7 @@ the song called "The Flower that only Grows Here",
 is very big.
 
 34
-00:01:30,000 --> 00:01:32,500
+00:01:29,900 --> 00:01:32,500
 But whenever I talk about my hometown story to Kuroda,
 
 35
@@ -716,7 +716,7 @@ Well isn't it that?
 
 180
 00:05:59,000 --> 00:06:01,900
-You want to make food at home that you've eaten elsewhere.
+You want to make food that you've eaten elsewhere at home.
 
 181
 00:06:01,900 --> 00:06:03,000
@@ -736,10 +736,10 @@ She was very skilled at cooking, so
 
 185
 00:06:07,100 --> 00:06:08,600
-we had moments like, "Hey, it's that dish we ate at that restaurant."
+we had moments like, "hey, it's that dish we ate at that restaurant."
 
 186
-00:06:08,750 --> 00:06:12,000
+00:06:09,000 --> 00:06:12,000
 But Kuroda's mom is,
 
 187
