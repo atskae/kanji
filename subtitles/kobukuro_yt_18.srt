@@ -84,7 +84,7 @@ Nothing changes, but,
 
 22
 00:01:03,900 --> 00:01:06,500
-Because of that, I can notice that I've changed.
+Because of that, I am able to notice that I've changed.
 
 23
 00:01:07,000 --> 00:01:07,500
@@ -148,7 +148,7 @@ the same kid that was 5 years, 10 years old,
 
 38
 00:01:41,250 --> 00:01:43,500
-even when that kid becomes an adult, the fact that we are together even now,
+even when that kid became an adult, the fact that we are together even now,
 
 39
 00:01:44,000 --> 00:01:45,950
@@ -232,7 +232,7 @@ There's no other people who would gather like this.
 
 59
 00:02:21,100 --> 00:02:24,250
-To me I have my actual hometown, but,
+I have my own, actual hometown, but,
 
 60
 00:02:24,500 --> 00:02:26,500
@@ -320,7 +320,7 @@ Yes.
 
 81
 00:03:14,000 --> 00:03:14,500
-That's true.
+That's right.
 
 82
 00:03:14,500 --> 00:03:15,250
@@ -420,7 +420,7 @@ Hello?
 
 106
 00:03:55,400 --> 00:03:55,900
-Mmhmm.
+Mmhm.
 
 107
 00:03:56,750 --> 00:03:57,800
@@ -484,11 +484,11 @@ Stop it.
 
 122
 00:04:23,000 --> 00:04:24,000
-Go to that from the start!
+Just go from the start!
 
 123
 00:04:24,250 --> 00:04:26,000
-Don't make me convince you for you to go. Just go, you.
+Don't make me convince you to go. Just go, you.
 
 124
 00:04:27,000 --> 00:04:28,100
@@ -507,11 +507,11 @@ that's my personal information!
 Don't say that in front of 50,0000 people!
 
 128
-00:04:34,000 --> 00:04:34,500
+00:04:34,000 --> 00:04:34,600
 Well...
 
 129
-00:04:34,800 --> 00:04:37,000
+00:04:34,700 --> 00:04:37,000
 You should at least value those little things.
 
 130
@@ -593,3 +593,7 @@ Everyone.
 149
 00:05:00,100 --> 00:05:02,500
 My mom, um,
+
+150
+00:05:03,000 --> 00:05:06,000
+There's a thing called balancing supply and demand, right?
