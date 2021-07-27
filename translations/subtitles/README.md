@@ -7,3 +7,6 @@ Apparently you can [add subtitles to YouTube videos](https://support.google.com/
 * [`kobukuro_yt_18.srt`](https://www.youtube.com/watch?v=oaOGt-NvBjk)
     * この会話 ich liebe 🤣
     * I manually wrote this one and repeatedly uploaded it through the [Substital Chrome Extension](https://chrome.google.com/webstore/detail/substital-add-subtitles-t/kkkbiiikppgjdiebcabomlbidfodipjg?hl=en) on each edit (stupid me).
+* [`kobukuro_yt_16.srt`](https://www.youtube.com/watch?v=mhd5gVScX_c)
+    * Using [clideo](https://clideo.com/editor/add-subtitles-to-video)
+
