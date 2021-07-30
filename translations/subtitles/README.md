@@ -10,4 +10,6 @@ Apparently you can [add subtitles to YouTube videos](https://support.google.com/
     * Still not sure what なんちゃない means when he describes his conversations with this family.
 * [`kobukuro_yt_16.srt`](https://www.youtube.com/watch?v=mhd5gVScX_c)
     * Using [clideo](https://clideo.com/editor/add-subtitles-to-video)
+* [`kobukuro_yt_9.srt`](https://www.youtube.com/watch?v=uQiMra271lM&list=PLLdf1K67c8QJ3n2HQQeCEBzlsaa-5xH8Y&index=13)
+    * Japanese captions: `kobukuro_yt_9_jp.srt`
   
