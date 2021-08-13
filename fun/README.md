@@ -60,7 +60,7 @@ Keeping track of amusing translations I encountered
 ### Creepy-looking (気持ち悪い)
 * 罪 - つみ - sin (looks like a げじげじ)
 * 幽霊 - ゆうれい - ghost (dunno, when I typed this and it auto-kanji-ed it freaked me out)
-* 綺麗 - きれい - pretty (ironically looks ugly. The second kanji looks likes some creepy lady's face looking at you)
+* 綺麗 - きれい - pretty (ironically looks ugly. The second kanji looks likes some creepy ~~lady's~~ grinning face looking at you)
 
 ## Same kanji, different meanings
 * 着く - つく - arrive; 着る - きる - wear
