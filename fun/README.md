@@ -39,6 +39,7 @@ Keeping track of amusing translations I encountered
 * 傘 - かさ
 * 飛ぶ - とぶ (I see tiny bird wings);
 * 雨
+* 一、二、三
 
 ## Similar-looking
 * 音 - おと; 昔 - むかし; 普 - フ - universal
@@ -55,6 +56,11 @@ Keeping track of amusing translations I encountered
 * 凹凸 - おうとつ - unevenness = "concave convex"
 * 災い - わざわい - calamity, disaster
 * 巨 - キョ- enormous
+
+### Creepy-looking (気持ち悪い)
+* 罪 - つみ - sin (looks like a げじげじ)
+* 幽霊 - ゆうれい - ghost (dunno, when I typed this and it auto-kanji-ed it freaked me out)
+* 綺麗 - きれい - pretty (ironically looks ugly. The second kanji looks likes some creepy lady's face looking at you)
 
 ## Same kanji, different meanings
 * 着く - つく - arrive; 着る - きる - wear
