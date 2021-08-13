@@ -30,6 +30,7 @@ Keeping track of amusing translations I encountered
 * 気持ち悪い - (I can't accurately translate this feeling, but it's when you see a げじげじ for example) - "bad feeling"
 * 思い出 - memories = "thought exit"
     * 思い出す - to remember = "take out the thought"
+* 見落として - to overlook, fail to notice = "drop the seeing"
 
 ## Actually makes sense
 * 煮る - にる to boil = "者 as in person, and fire 灬 radical"
