@@ -68,4 +68,4 @@ Keeping track of amusing translations I encountered
 * 着く - つく - arrive; 着る - きる - wear
 * 変わる - changes; 変 - へん - strange
 * 調べ - しらべ - investigation; tune, melody
-
+* 重 - いおもい - heavy; 重なる - かさなる - to pile up
