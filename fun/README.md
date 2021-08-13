@@ -27,13 +27,13 @@ Keeping track of amusing translations I encountered
 * 一体 - いったい - what the heck = "one body"
 * 二度と - never again = "two times"
 * 一人一人 - ひとりひとり - each person, one by one = "one person one person"
+* 気持ち悪い - (I can't accurately translate this feeling, but it's when you see a げじげじ for example) - "bad feeling"
 
 ## Actually makes sense
 * 煮る - にる to boil = "者 as in person, and fire 灬 radical"
 * 砂 - すな - sand = "少し - すこし - a little bit; 石 - いし - rock"
 * 大事 - important = "big thing"
 * 前髪 - まえがみ - bangs = "front hair"
-
 
 ## Looks like what they mean
 * 傘 - かさ
