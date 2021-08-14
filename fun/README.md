@@ -31,6 +31,7 @@ Keeping track of amusing translations I encountered
 * 思い出 - memories = "thought exit"
     * 思い出す - to remember = "take out the thought"
 * 見落として - to overlook, fail to notice = "drop the seeing"
+* 箒星 - ほうきぼし - comet = "broom star"
 
 ## Actually makes sense
 * 煮る - にる to boil = "者 as in person, and fire 灬 radical"
@@ -59,6 +60,9 @@ Keeping track of amusing translations I encountered
 * 凹凸 - おうとつ - unevenness = "concave convex"
 * 災い - わざわい - calamity, disaster
 * 巨 - キョ- enormous
+
+### Looks like
+* 界,嫌 - the ninja tamagotchi
 
 ### Creepy-looking (気持ち悪い)
 * 罪 - つみ - sin (looks like a げじげじ)
