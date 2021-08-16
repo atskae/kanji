@@ -65,7 +65,7 @@ Keeping track of amusing translations I encountered
 
 ### Looks like
 * 界,嫌 - the ninja tamagotchi
-* 必ず - かならず - looks like a seatbelt
+* 必ず - かならず - looks like a seatbelt over a heart 心
 
 ### Creepy-looking (気持ち悪い)
 * 罪 - つみ - sin (looks like a げじげじ)
