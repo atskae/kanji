@@ -32,6 +32,8 @@ Keeping track of amusing translations I encountered
     * 思い出す - to remember = "take out the thought"
 * 見落として - to overlook, fail to notice = "drop the seeing"
 * 箒星 - ほうきぼし - comet = "broom star"
+* 板前さん - いたまえさん - chef, cook = "(the person) in front of the (cutting) board"
+    * TIL 板前さん is not the person's name
 
 ## Actually makes sense
 * 煮る - にる to boil = "者 as in person, and fire 灬 radical"
