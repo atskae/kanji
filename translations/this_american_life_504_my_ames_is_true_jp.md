@@ -33,6 +33,14 @@ This American Life 504 - "How I Got Into College"
 
 * [笑う]
 
+**アイラ・グラス** この話は何年もマイケルがたまに物語る(ものがたる)話になった。
+
+* **マイケル・ルイス**　時々俺話を何回も言いすぎる[28]。俺がこの話を好きってのが俺のことを見せるって、いつか築いた(きずいた)[29]。
+
+* **アイラ・グラス**　それは君のことを何を見せるんですか？
+
+* **マイケル・ルイス**　なんか、俺の世界観(かん)に性に合って[30]、と”権威(けんい)ってのは無茶(むちゃ)”って言う一般的(いっぱんてき)の感覚(かんかく)[31]、
+
 ---
 
 * [1]: How to say "include" like "his works include X, Y, and Z"?
@@ -62,5 +70,7 @@ This American Life 504 - "How I Got Into College"
 * [25] 結果 sounds like results to a test
 * [26] 
 * [27]
-
-
+* [28] No idea... I don't even use the English phrase "wheel it out"
+* [29] Absolutely butchered this sentence.
+* [30] I remembered this phrase from *that* (I know what I'm talking about 笑), but is it correctly used here?
+* [31] This sentence is a mess. How do you correctly do relative clauses (?) in 日本語?
