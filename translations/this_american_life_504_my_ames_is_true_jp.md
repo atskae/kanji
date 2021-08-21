@@ -7,7 +7,11 @@ This American Life 504 - "How I Got Into College"
 
 * **アイラ・グラス** あ、短い(みじかい)要約(ようやく)でしたか？
 
-* **マイケル・ルイス**　短い(みじかい)要約(ようやく)。それでそれを複写(ふくしゃ)して出して、それと[inaudible]した。"A"を乗ってて返されました。
+* **マイケル・ルイス**　短い(みじかい)要約(ようやく)。それで、それを複写(ふくしゃ)して、出して、それと[inaudible]した。"A"を乗ってて返されました。上部(じょうぶ)に大きい赤いインクで"報告(ほうこく)してください”[8]。そしてダウナーさんに会った時、彼は"それは盗作(とうさく)です"って言いました。”なんて言う事[9]。盗作(とうさくって)なんですか？”
+
+* **アイラ・グラス** 聞いたことなかったんですか？
+
+* **マイケル・ルイス**　聞いたことなかった。その概念(がいねん)[10]は俺には見知らぬ[11]だった。
 
 ---
 
@@ -18,3 +22,7 @@ This American Life 504 - "How I Got Into College"
 * [5] "Asked us to write" ???
 * [6] "I noticed"? "気づいた" sounds like "I realized"
 * [7] "Just" in "It was just there", "I just copied it"
+* [8] I know this is totally wrong, but 会う here sounds super not-formal? And literally 私を見れ is obviously wrong.
+* [9] What is "oh my god." equivalent in Japanese? "ええええ” doesn't fit this mood here.
+* [10] Is this the correct way to use "がいねん"？
+* [11] Is this the correct way to use "見知らぬ"？
