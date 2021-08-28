@@ -34,7 +34,7 @@ Keeping track of amusing translations I encountered
 * 箒星 - ほうきぼし - comet = "broom star"
 * 板前さん - いたまえさん - chef, cook = "(the person) in front of the (cutting) board"
     * TIL 板前さん is not the person's name
-* アッカンペー is just a butchered "赤いめ"
+* アッカンべー is just a butchered "赤いめ"
 
 ## Actually makes sense
 * 煮る - にる to boil = "者 as in person, and fire 灬 radical"
