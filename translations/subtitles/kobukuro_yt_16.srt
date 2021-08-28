@@ -1,9 +1,9 @@
 ﻿1
-00:00:00,860 --> 00:00:01,220
+00:00:00,860 --> 00:00:01,210
 Yes.
 
 2
-00:00:01,859 --> 00:00:02,180
+00:00:01,740 --> 00:00:02,060
 Today is
 
 3
@@ -15,11 +15,11 @@ The inside of Kobukuro's bag.
 We've gotten more
 
 5
-00:00:06,510 --> 00:00:08,510
+00:00:06,510 --> 00:00:08,300
 used to this YouTube thing.
 
 6
-00:00:08,740 --> 00:00:09,140
+00:00:08,430 --> 00:00:08,830
 Right?
 
 7
@@ -75,15 +75,15 @@ So, today
 so the thing called "Inside the Bag"
 
 20
-00:00:25,320 --> 00:00:27,320
+00:00:25,320 --> 00:00:27,030
 is often shown on TV, right?
 
 21
-00:00:27,550 --> 00:00:27,850
+00:00:27,150 --> 00:00:27,450
 Right?
 
 22
-00:00:27,920 --> 00:00:29,920
+00:00:27,780 --> 00:00:29,780
 Who would have thought that the day we'd do such a thing would come?
 
 23
@@ -123,23 +123,23 @@ This story, this story. right?
 People that think of YouTube, you know
 
 32
-00:00:43,350 --> 00:00:44,510
+00:00:43,350 --> 00:00:44,270
 when they asked us "How about next time?"
 
 33
-00:00:44,610 --> 00:00:45,230
+00:00:44,370 --> 00:00:45,110
 The time we said "ok"
 
 34
-00:00:45,330 --> 00:00:46,180
+00:00:45,200 --> 00:00:46,170
 the staff was so surprised.
 
 35
-00:00:46,890 --> 00:00:48,100
+00:00:46,890 --> 00:00:47,910
 Even though before we refused that much.
 
 36
-00:00:48,110 --> 00:00:48,410
+00:00:47,950 --> 00:00:48,500
 Right.
 
 37
@@ -764,7 +764,7 @@ This, Takahashi Mary June also has the same thing.
 
 192
 00:04:24,570 --> 00:04:25,180
-In principle, um, 
+In principle, um,
 
 193
 00:04:25,330 --> 00:04:25,850
@@ -1100,7 +1100,7 @@ That's that.
 
 276
 00:06:05,480 --> 00:06:05,880
-is the most 
+is the most
 
 277
 00:06:05,960 --> 00:06:07,760
