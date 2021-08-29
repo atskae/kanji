@@ -916,7 +916,7 @@ Stop it.
 
 230
 00:05:13,020 --> 00:05:14,350
-We are making a YouTube video today,
+We're making a YouTube video today,
 
 231
 00:05:14,400 --> 00:05:15,340
