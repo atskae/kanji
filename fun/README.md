@@ -63,6 +63,7 @@ Keeping track of amusing translations I encountered
 * 凹凸 - おうとつ - unevenness = "concave convex"
 * 災い - わざわい - calamity, disaster
 * 巨 - キョ- enormous
+* 爽やか
 
 ### Looks like
 * 界,嫌 - the ninja tamagotchi
