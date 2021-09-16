@@ -64,6 +64,7 @@ Keeping track of amusing translations I encountered
 * 災い - わざわい - calamity, disaster
 * 巨 - キョ- enormous
 * 爽やか
+* 卵 - たまご - looks nothing like it...
 
 ### Looks like
 * 界,嫌 - the ninja tamagotchi
