@@ -35,6 +35,9 @@ Keeping track of amusing translations I encountered
 * 板前さん - いたまえさん - chef, cook = "(the person) in front of the (cutting) board"
     * TIL 板前さん is not the person's name
 * アッカンべー is just a butchered "赤いめ"
+* 母音 - ぼいん - vowel = "mother sound"
+* 子音 - しいん - consonant = "child sound"
+
 
 ## Actually makes sense
 * 煮る - にる to boil = "者 as in person, and fire 灬 radical"
