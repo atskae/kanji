@@ -37,7 +37,7 @@ Keeping track of amusing translations I encountered
 * アッカンべー is just a butchered "赤いめ"
 * 母音 - ぼいん - vowel = "mother sound"
 * 子音 - しいん - consonant = "child sound"
-
+* 動物 - どうぶつ - animal = "moving thing"
 
 ## Actually makes sense
 * 煮る - にる to boil = "者 as in person, and fire 灬 radical"
