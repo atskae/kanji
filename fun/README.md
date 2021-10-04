@@ -38,6 +38,9 @@ Keeping track of amusing translations I encountered
 * 母音 - ぼいん - vowel = "mother sound"
 * 子音 - しいん - consonant = "child sound"
 * 動物 - どうぶつ - animal = "moving thing"
+* 人酔い - dizziness due to crowded place = "person, feel sick"
+* 奥さん - wife = "Ms. inside"
+* 手前 - in front, nearby, this side of = "hand in front"
 
 ## Actually makes sense
 * 煮る - にる to boil = "者 as in person, and fire 灬 radical"
@@ -83,3 +86,9 @@ Keeping track of amusing translations I encountered
 * 変わる - changes; 変 - へん - strange
 * 調べ - しらべ - investigation; tune, melody
 * 重い - おもい - heavy; 重なる - かさなる - to pile up
+
+## Etsy
+* 迷子 is a noun too
+    * 迷子はどこ行ったんだろう
+    * 無口な迷子
+
