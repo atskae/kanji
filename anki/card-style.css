@@ -1,0 +1,30 @@
+.card {
+    font-family: arial;
+    font-size: 20px;
+    text-align: center;
+    color: black;
+    background-color: white;
+  }
+  
+  .main {
+    font-size: 25px;
+  }
+  
+  h5 {
+    color: #ff66cc;
+    font-size: 14px;
+    text-transform: uppercase;
+  }
+  
+  .subheading {
+    color: gray;
+  }
+  
+  .sentence {
+    font-family: serif;
+  }
+  
+  .footnote {
+    font-size: 16px;
+    color: gray;
+  }
