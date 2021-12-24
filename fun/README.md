@@ -41,6 +41,8 @@ Keeping track of amusing translations I encountered
 * 人酔い - dizziness due to crowded place = "person, feel sick"
 * 奥さん - wife = "Ms. inside"
 * 手前 - in front, nearby, this side of = "hand in front"
+* 役に立つ - to be helpful/useful = "to stand up to a role"
+
 
 ## Actually makes sense
 * 煮る - にる to boil = "者 as in person, and fire 灬 radical"
