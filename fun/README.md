@@ -42,6 +42,8 @@ Keeping track of amusing translations I encountered
 * 奥さん - wife = "Ms. inside"
 * 手前 - in front, nearby, this side of = "hand in front"
 * 役に立つ - to be helpful/useful = "to stand up to a role"
+* 十分 - じゅうぶん - enough, sufficient = "ten parts"
+* 身に付く - master a skill = "stick to someone"
 
 
 ## Actually makes sense
