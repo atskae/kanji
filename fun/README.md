@@ -39,7 +39,7 @@ Keeping track of amusing translations I encountered
 * 母音 - ぼいん - vowel = "mother sound"
 * 子音 - しいん - consonant = "child sound"
 * 動物 - どうぶつ - animal = "moving thing"
-* 人酔い - dizziness due to crowded place = "person, feel sick"
+* 人酔い - dizziness due to crowded place = "people sickness"
 * 奥さん - wife = "Ms. inside"
 * 手前 - in front, nearby, this side of = "hand in front"
 * 役に立つ - to be helpful/useful = "to stand up to a role"
