@@ -106,4 +106,5 @@ Keeping track of amusing translations I encountered
 
 ## From English
 * タンマ！ - time out!
+* スタバ - Starbucks
 
