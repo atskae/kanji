@@ -105,6 +105,6 @@ Keeping track of amusing translations I encountered
 * バズる - gets popular on the internet
 
 ## From English
-* タンマ！ - time out!
+* タンマ！ - time out!, wait a minute
 * スタバ - Starbucks
 
