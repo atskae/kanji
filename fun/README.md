@@ -99,4 +99,11 @@ Keeping track of amusing translations I encountered
 * 迷子 is a noun too
     * 迷子はどこ行ったんだろう
     * 無口な迷子
+* Texting
+    * 笑 -> www -> くさ - 草
+    * り - 了解 = "Ok."
+* バズる - gets popular on the internet
+
+## From English
+* タンマ！ - time out!
 
