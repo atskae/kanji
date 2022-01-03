@@ -42,6 +42,7 @@ Keeping track of amusing translations I encountered
 * 人酔い - dizziness due to crowded place = "people sickness"
 * 奥さん - wife = "Ms. inside"
 * 手前 - in front, nearby, this side of = "hand in front"
+    * TIL てめぇ is also 手前
 * 役に立つ - to be helpful/useful = "to stand up to a role"
 * 十分 - じゅうぶん - enough, sufficient = "ten parts"
 * 身に付く - master a skill = "stick to someone"
