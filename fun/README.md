@@ -45,14 +45,14 @@ Keeping track of amusing translations I encountered
 * 役に立つ - to be helpful/useful = "to stand up to a role"
 * 十分 - じゅうぶん - enough, sufficient = "ten parts"
 * 身に付く - master a skill = "stick to someone"
-
-
-## Actually makes sense
 * 煮る - にる to boil = "者 as in person, and fire 灬 radical"
 * 砂 - すな - sand = "少し - すこし - a little bit; 石 - いし - rock"
     * I love how sugar 砂糖 has the kanji sand 砂 in it
 * 大事 - important = "big thing"
 * 前髪 - まえがみ - bangs = "front hair"
+* 足首 - ankle = "leg neck"
+* 手首 - wrist = "hand neck"
+
 
 ## Looks like what they mean
 * 傘 - かさ
