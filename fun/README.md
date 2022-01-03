@@ -59,6 +59,7 @@ Keeping track of amusing translations I encountered
 * 飛ぶ - とぶ (I see tiny bird wings);
 * 雨
 * 一、二、三
+* 串 - くし - skewer 🍡 
 
 ## Similar-looking
 * 音 - おと; 昔 - むかし; 普 - フ - universal
