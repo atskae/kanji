@@ -95,6 +95,9 @@ Keeping track of amusing translations I encountered
 * 調べ - しらべ - investigation; tune, melody
 * 重い - おもい - heavy; 重なる - かさなる - to pile up
 
+## Flip flops
+* 相手 - companion, other person; 手相 - palm reading
+
 ## Etsy
 * 迷子 is a noun too
     * 迷子はどこ行ったんだろう
