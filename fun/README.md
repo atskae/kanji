@@ -111,4 +111,6 @@ Keeping track of amusing translations I encountered
 ## From English
 * タンマ！ - time out!, wait a minute
 * スタバ - Starbucks
+* マック - McDonalds
+    * マクド - Osaka/Kansai-ben
 
