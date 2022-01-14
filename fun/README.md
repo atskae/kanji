@@ -106,6 +106,7 @@ Keeping track of amusing translations I encountered
     * 笑 -> www -> くさ - 草 = "lol"
     * り - 了解 = "Ok."
 * バズる - gets popular on the internet
+* したっけ！(good-bye in Hokkaido 方言) comes from じゃあね！ 🤯
 
 ## From English
 * タンマ！ - time out!, wait a minute
