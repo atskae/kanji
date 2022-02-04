@@ -53,7 +53,7 @@ Keeping track of amusing translations I encountered
 * 前髪 - まえがみ - bangs = "front hair"
 * 足首 - ankle = "leg neck"
 * 手首 - wrist = "hand neck"
-
+* 見慣れる - get used to seeing = "see, get used to it"
 
 ## Looks like what they mean
 * 傘 - かさ
@@ -72,6 +72,8 @@ Keeping track of amusing translations I encountered
 * 未だ, 夫 - おっと
 * The まん in 我慢 - がまん and 優しい
 * 都 - みやこ; 部 - ブ
+* 変 - へん; 恋 - こい // 🤣
+* 幸せ - しあわせ; 辛い - つらい // this sounds deep...
 
 ## Weird-looking
 * 凹凸 - おうとつ - unevenness = "concave convex"
