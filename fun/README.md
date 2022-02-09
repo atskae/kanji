@@ -54,6 +54,8 @@ Keeping track of amusing translations I encountered
 * 足首 - ankle = "leg neck"
 * 手首 - wrist = "hand neck"
 * 見慣れる - get used to seeing = "see, get used to it"
+* 塗りつぶす - ぬりつぶす = to paint over = "to paint smush"
+    * Why did I randomly remember today *that* comic I even remember what she said "塗りつぶしてください！” あああ
 
 ## Looks like what they mean
 * 傘 - かさ
