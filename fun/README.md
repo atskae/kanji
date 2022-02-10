@@ -55,7 +55,8 @@ Keeping track of amusing translations I encountered
 * 手首 - wrist = "hand neck"
 * 見慣れる - get used to seeing = "see, get used to it"
 * 塗りつぶす - ぬりつぶす = to paint over = "to paint smush"
-    * Why did I randomly remember today *that* comic I even remember what she said "塗りつぶしてください！” あああ
+    * Why did I randomly remember today *that* comic I even remember what she said "塗りつぶしてください！” あああ (させて?)
+* 当たり前 - obvious = "hit in front of"
 
 ## Looks like what they mean
 * 傘 - かさ
