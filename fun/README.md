@@ -119,3 +119,9 @@ Keeping track of amusing translations I encountered
 * マック - McDonalds
     * マクド - Osaka/Kansai-ben
 
+## Same Phonetic
+* lice, rice
+* city, shitty
+    * All those ポケモン cities...
+* ugly, agree
+
