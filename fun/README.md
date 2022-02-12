@@ -77,6 +77,7 @@ Keeping track of amusing translations I encountered
 * 都 - みやこ; 部 - ブ
 * 変 - へん; 恋 - こい // 🤣
 * 幸せ - しあわせ; 辛い - つらい // this sounds deep...
+* 会う (to meet);  合う (to fit) - they are both あう too!!
 
 ## Weird-looking
 * 凹凸 - おうとつ - unevenness = "concave convex"
