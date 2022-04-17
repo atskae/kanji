@@ -127,4 +127,5 @@ Keeping track of amusing translations I encountered
 * city, shitty
     * All those ポケモン cities...
 * ugly, agree
+* sin, thin
 
