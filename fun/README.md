@@ -58,6 +58,8 @@ Keeping track of amusing translations I encountered
     * Why did I randomly remember today *that* comic I even remember what she said "塗りつぶしてください！” あああ (させて?)
 * 当たり前 - obvious = "hit in front of"
 * 皆殺し - massacre = "everyone kill" "皆殺す"
+* 髪の毛 - hair = "hair of the fur"
+    * I didn't realize this wasn't one word...
 
 ## Looks like what they mean
 * 傘 - かさ
