@@ -62,6 +62,7 @@ Keeping track of amusing translations I encountered
     * I didn't realize this wasn't one word...
 * 近付く - to approach = "to stick closer"
     * I totally thought this would be 近い + 着く but it ain't
+* 出来る - to be able to = "go out come"
 
 ## Looks like what they mean
 * 傘 - かさ
