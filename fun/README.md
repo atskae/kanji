@@ -126,7 +126,14 @@ Keeping track of amusing translations I encountered
 * マック - McDonalds
     * マクド - Osaka/Kansai-ben
 
-## Same Phonetic
+### Funny English
+* Have a nice your life!
+* Antenna shop
+
+### Does not mean the same thing in English
+* マンション - condo, apartment building (not a mansion)
+
+### Same Phonetic
 * lice, rice
 * city, shitty
     * All those ポケモン cities...
