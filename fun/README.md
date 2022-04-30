@@ -121,7 +121,10 @@ Keeping track of amusing translations I encountered
 * したっけ！(good-bye in Hokkaido 方言) comes from じゃあね！ 🤯
 
 ## From English
+* リスけ - reschedule
+    * リスケしてください - Please reschedule.
 * タンマ！ - time out!, wait a minute
+    * 🛹🎱🥽
 * スタバ - Starbucks
 * マック - McDonalds
     * マクド - Osaka/Kansai-ben
@@ -131,7 +134,7 @@ Keeping track of amusing translations I encountered
 * Antenna shop
 
 ### Does not mean the same thing in English
-* マンション - condo, apartment building (not a mansion)
+* マンション - condo, apartment building
 
 ### Same Phonetic
 * lice, rice
