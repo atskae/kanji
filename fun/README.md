@@ -60,6 +60,8 @@ Keeping track of amusing translations I encountered
 * 皆殺し - massacre = "everyone kill" "皆殺す"
 * 髪の毛 - hair = "hair of the fur"
     * I didn't realize this wasn't one word...
+* 近付く - to approach = "to stick closer"
+    * I totally thought this would be 近い + 着く but it ain't
 
 ## Looks like what they mean
 * 傘 - かさ
