@@ -63,6 +63,8 @@ Keeping track of amusing translations I encountered
 * 近付く - to approach = "to stick closer"
     * I totally thought this would be 近い + 着く but it ain't
 * 出来る - to be able to = "go out come"
+* 感動 - かんどう - emotionally moved, inspiring - "emotion move" (makes sense!)
+    * "感じ移動する"
 
 ## Looks like what they mean
 * 傘 - かさ
