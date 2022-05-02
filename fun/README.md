@@ -65,6 +65,12 @@ Keeping track of amusing translations I encountered
 * 出来る - to be able to = "go out come"
 * 感動 - かんどう - emotionally moved, inspiring - "emotion move" (makes sense!)
     * "感じ移動する"
+* 喉が渇いた - I'm thirsty = "My throat dried up"
+* 腹へった - I'm hungry - "My stomach decreased"
+* お腹空いた - I'm hungry - "My stomach emptied"
+    * 空いた = less crowded
+* 風船 - balloon = "wind boat"
+
 
 ## Looks like what they mean
 * 傘 - かさ
