@@ -103,6 +103,7 @@ Keeping track of amusing translations I encountered
 * 巨 - キョ- enormous
 * 爽やか
 * 卵 - たまご - looks nothing like it...
+* 児 (from 幼児　ようじ - toddler) - the floating vertical line feels odd to me
 
 ### Looks like
 * 界,嫌 - the ninja tamagotchi
