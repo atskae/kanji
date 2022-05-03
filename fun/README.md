@@ -139,6 +139,7 @@ Keeping track of amusing translations I encountered
     * リスケしてください - Please reschedule.
 * タンマ！ - time out!, wait a minute
     * 🛹🎱🥽
+        * ゲーセン - game arcade
 * スタバ - Starbucks
 * マック - McDonalds
     * マクド - Osaka/Kansai-ben
