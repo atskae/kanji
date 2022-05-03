@@ -56,7 +56,7 @@ Keeping track of amusing translations I encountered
 * 腹へった - I'm hungry - "My stomach decreased"
 * お腹空いた - I'm hungry - "My stomach emptied"
     * 空いた = less crowded
-
+* 大掃除 - おおそうじ - big cleanup
 
 ## 音読み合体
 * 大変 - danger! oh-no! there's trouble! = "big strange"
