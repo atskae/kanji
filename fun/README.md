@@ -57,6 +57,8 @@ Keeping track of amusing translations I encountered
 * お腹空いた - I'm hungry - "My stomach emptied"
     * 空いた = less crowded
 * 大掃除 - おおそうじ - big cleanup
+* 詰まらない - つまらない - boring = "it doesn't pack (as in fill up)"
+
 
 ## 音読み合体
 * 大変 - danger! oh-no! there's trouble! = "big strange"
@@ -73,7 +75,11 @@ Keeping track of amusing translations I encountered
     * I love how sugar 砂糖 has the kanji sand 砂 in it
 * 皆殺し - massacre = "everyone kill" "皆殺す"
 * 風船 - balloon = "wind boat"
-
+* 缶詰 - かんづめ - canned food = "can that is packed"
+    * I also thought "can" would be カン (taken from "can");
+* 夢中 - absorbed in, immersed in = "in a dream"
+    * Oh, I guess this could also just mean "in a dream"
+* 電気 - electricty = "electric spirit/feeling"
 
 ## Looks like what they mean
 * 傘 - かさ
