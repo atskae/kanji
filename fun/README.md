@@ -14,6 +14,7 @@ Keeping track of amusing translations I encountered
 * ただいま - 只今 - I'm home! - "Normal right now"
 * 目指す - めざす - "to aim, goal" = "stick your eye"
 * 勝手にする - かってにする - do arbitrarily = "winning hand"
+    * 勝手口 - かってぐち - back door
 * 大人しくして - おとなしくして - behave? be obedient = "(be like) an adult"
 * 色んいな - いろんな - various = "color ..."
 * 思いっ切り - with all one's strength = "thought cut"
