@@ -160,6 +160,7 @@ Keeping track of amusing translations I encountered
 * マンション - condo, apartment building
 * マイペース - someone who does things at their own pace (usually slower than others)
     * "This person is very <my pace>"
+* ペアルック - matching outfits worn by couples
 
 ### Same Phonetic
 * lice, rice
