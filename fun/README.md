@@ -154,8 +154,11 @@ Keeping track of amusing translations I encountered
 * Have a nice your life!
 * Antenna shop
 
+
 ### Does not mean the same thing in English
 * マンション - condo, apartment building
+* マイペース - someone who does things at their own pace (usually slower than others)
+    * "This person is very <my pace>"
 
 ### Same Phonetic
 * lice, rice
