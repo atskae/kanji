@@ -162,6 +162,8 @@ Keeping track of amusing translations I encountered
 * マイペース - someone who does things at their own pace (usually slower than others)
     * "This person is very <my pace>"
 * ペアルック - matching outfits worn by couples
+* ロマン - can also mean "impossible dream", "adventure spirit"
+    * That saying from One Piece makes sense now...
 
 ### Same Phonetic
 * lice, rice
