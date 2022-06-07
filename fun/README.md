@@ -81,6 +81,7 @@ Keeping track of amusing translations I encountered
 * 夢中 - absorbed in, immersed in = "in a dream"
     * Oh, I guess this could also just mean "in a dream"
 * 電気 - electricty = "electric spirit/feeling"
+* 北海道 - Hokkaido = "north ocean road"
 
 ## Looks like what they mean
 * 傘 - かさ
