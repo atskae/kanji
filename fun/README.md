@@ -103,6 +103,7 @@ Keeping track of amusing translations I encountered
 * 変 - へん; 恋 - こい // 🤣
 * 幸せ - しあわせ; 辛い - つらい // this sounds deep...
 * 会う (to meet);  合う (to fit) - they are both あう too!!
+* 傘 - umbrella, 率 - ratio
 
 ## Weird-looking
 * 凹凸 - おうとつ - unevenness = "concave convex"
