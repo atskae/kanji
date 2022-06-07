@@ -59,7 +59,7 @@ Keeping track of amusing translations I encountered
     * 空いた = less crowded
 * 大掃除 - おおそうじ - big cleanup
 * 詰まらない - つまらない - boring = "it doesn't pack (as in fill up)"
-
+* 茶色 - brown = "tea color"
 
 ## 音読み合体
 * 大変 - danger! oh-no! there's trouble! = "big strange"
