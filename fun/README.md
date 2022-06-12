@@ -105,6 +105,16 @@ Keeping track of amusing translations I encountered
 * 幸せ - しあわせ; 辛い - つらい // this sounds deep...
 * 会う (to meet);  合う (to fit) - they are both あう too!!
 * 傘 - umbrella, 率 - ratio
+* 末- すえ - end; 未だ - まだ - not yet
+    * 末っ子 - すえっこ
+    * 週末、月末, 年末
+    * 未来 - みらい
+* 田由申甲曲
+    * 田 - た - rice field
+    * 自由 - じゆう - freedom
+    * 申し訳ありません - I'm sorry (it is inexcuseable)
+    * 甲虫 - かぶとむし
+    * 曲 - きょく - song 
 
 ## Weird-looking
 * 凹凸 - おうとつ - unevenness = "concave convex"
