@@ -115,6 +115,7 @@ Keeping track of amusing translations I encountered
     * 申し訳ありません - I'm sorry (it is inexcuseable)
     * 甲虫 - かぶとむし
     * 曲 - きょく - song 
+* 万 - 10,000; 方 - ほう - way, direction
 
 ## Weird-looking
 * 凹凸 - おうとつ - unevenness = "concave convex"
