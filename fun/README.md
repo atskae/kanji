@@ -170,12 +170,15 @@ Keeping track of amusing translations I encountered
 
 
 ### Does not mean the same thing in English
-* マンション - condo, apartment building
+* アパート and マンション don't mean the same thing!!
+    * アパート - wider, shorter wooden building, less floors (2-3)
+    * マンション - apartment commplex(?) those huge concrete buildings with apartments inside, many floors
 * マイペース - someone who does things at their own pace (usually slower than others)
     * "This person is very <my pace>"
 * ペアルック - matching outfits worn by couples
 * ロマン - can also mean "impossible dream", "adventure spirit"
     * That saying from One Piece makes sense now...
+* バイク - motorcycle, *not* a bike
 
 ### Same Phonetic
 * lice, rice
