@@ -186,4 +186,6 @@ Keeping track of amusing translations I encountered
     * All those ポケモン cities...
 * ugly, agree
 * sin, thin
+* ranch, lunch
+* track, truck
 
