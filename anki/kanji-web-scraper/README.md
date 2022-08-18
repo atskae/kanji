@@ -3,7 +3,7 @@
 This script reads in selected webpages under [Kanji by Grade Levels](#Kanji by Grade Levels) and outputs a `.csv` file with the format:
 
 ```csv
-term,furigana,definition,notes
+term,furigana,definition,notes,warnings,examples
 ```
 
 ## How to Use
@@ -49,6 +49,50 @@ Each card format is roughly:
 ```
 
 The card ends when we see a `<hr/>`
+
+### The "notes" Section
+
+There are various types of "notes" (anything that come after the definition in `<p>`):
+
+* **Example sentences** always start with `"例文"` and contains a list:
+```html
+ <p>
+  <strong>
+   【例文】
+  </strong>
+ </p>
+ <ol>
+  <li>
+   校舎とグラウンドを何度も
+   <span style="color: #ff0000;">
+    往復
+   </span>
+   する。
+  </li>
+  <li>
+   一
+   <span style="color: #ff0000;">
+    往復
+   </span>
+   するのに３０分かかる。
+  </li>
+ </ol>
+```
+
+* **Supplement normal** (yellow rectangles containing text)
+```html
+ <div class="supplement normal">
+  特別な読みで、「きのう」とも読む。
+ </div>
+```
+
+* **Supplement warning** (red rectangles containing text)
+
+```html
+ <div class="supplement warning">
+  「遅」という漢字は、小学生では習いません。
+ </div>
+```
 
 ### Japanese Regex
 * [Regex patterns for Japanese](https://gist.github.com/terrancesnyder/1345094)
