@@ -1,6 +1,6 @@
 # Kanji Web Scraper
 
-This script reads in selected webpages under [Kanji by Grade Levels](#Kanji by Grade Levels) and outputs a `.csv` file with the format:
+This script reads in selected webpages under [Kanji by Grade Levels](#kanji-by-grade-levels) and outputs a `.csv` file with the format:
 
 ```csv
 term,furigana,definition,notes,warnings,examples
@@ -25,7 +25,7 @@ Then run:
 python scrape_web.py <url>
 ```
 
-Where `<url>` is any webpage under [Kanji by Grade Levels](#Kanji by Grade Level)
+Where `<url>` is any webpage under [Kanji by Grade Levels](#kanji-by-grade-levels)
 
 The output file `kanji.csv` will be generated.
 

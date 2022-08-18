@@ -19,7 +19,9 @@ class KanjiEntry:
     term: str
     furigana: str
     definition: str
-    notes: str
+    notes: str = ""
+    warnings: str = ""
+    examples: str = ""
 
 
 def get_kanji_entries(url: str) -> List[KanjiEntry]:
@@ -75,19 +77,47 @@ def get_kanji_entries(url: str) -> List[KanjiEntry]:
             definition = current_pos.get_text()
             log.info(f"Got definition: {definition}")
 
-            if current_pos.find_next_sibling().name == "hr":
+            # Create a kanji entry with the required fields first
+            kanji_entry = KanjiEntry(term=term, furigana=furigana, definition=definition)
+
+            # Add extra fields if present
+            current_pos = current_pos.find_next_sibling()
+            if current_pos.name == "hr":
                 log.info("End of kanji entry")
             else:
+                # Extract the extra information: notes, warnings, examples
                 log.info("Extra notes found")
-                # TODO: get the notes section
+                while current_pos is not None:
+                    if current_pos.name == "hr" or current_pos.name == "h2" or current_pos.name == "img":
+                        # End of the notes section
+                        break
 
-            # Create a kanji entry object and save it
-            kanji_entry = KanjiEntry(term=term, furigana=furigana, definition=definition, notes="")
+                    if current_pos.name == 'p':
+                        # Check that this is a list of examples
+                        strong_text = current_pos.find("strong")
+                        if strong_text:
+                            if u"例文" in strong_text.get_text():
+                                log.info("Found examples")
+                                # TODO: add examples as a raw HTML string
+                    elif current_pos.name == "div":
+                        # Either a note or a warning
+                        notes_type = current_pos.get("class")
+                        if notes_type == ["supplement", "normal"]:
+                            kanji_entry.notes = current_pos.get_text()
+                        elif notes_type == ["supplement", "warning"]:
+                            kanji_entry.warnings = current_pos.get_text()
+                        else:
+                            log.error(f"Unknown notes type: {notes_type}")
+
+                    # Move to the next object
+                    current_pos = current_pos.find_next_sibling()
+
             kanji_entries.append(kanji_entry)
             log.info("-----")
 
-            # Move to the next entry
-            current_pos = current_pos.find_next_sibling()
+            # Move to the next entry if not the last one
+            if current_pos is not None:
+                current_pos = current_pos.find_next_sibling()
 
     log.info(f"Created {len(kanji_entries)} kanji entries")
     return kanji_entries
@@ -95,7 +125,7 @@ def get_kanji_entries(url: str) -> List[KanjiEntry]:
 
 def export_to_csv(kanji_entries):
     """Export kanji entries to a csv file"""
-    header = ["term", "furigana", "definition", "notes"]
+    header = ["term", "furigana", "definition", "notes", "warnings", "examples"]
     outfile_name = "kanji.csv"
     with open(outfile_name, 'w', encoding="UTF8", newline='') as f:
         writer = csv.DictWriter(f, fieldnames=header)
