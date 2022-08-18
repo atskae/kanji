@@ -8,7 +8,7 @@ term,furigana,definition,notes
 
 ## How to Use
 
-Ensure you are running Python 3:
+Check that you are running Python 3:
 ```commandline
 python --version
 ```
@@ -27,13 +27,14 @@ python scrape_web.py <url>
 
 Where `<url>` is any webpage under [Kanji by Grade Levels](#Kanji by Grade Level)
 
+The output file `kanji.csv` will be generated.
+
 ## Kanji by Grade Levels
 
 * [Grades 1-3](https://proverb-encyclopedia.com/two/teigakunen/)
 * [Grades 4-6](https://proverb-encyclopedia.com/two/kougakunen/)
 
-
-## Notes
+## Dev Notes
 All the cards are in an `<article>` under `<main>`.
 
 Each card format is roughly:
@@ -52,7 +53,7 @@ The card ends when we see a `<hr/>`
 ### Japanese Regex
 * [Regex patterns for Japanese](https://gist.github.com/terrancesnyder/1345094)
 
-Spent way to long trying to figure out why my pattern was not matching. TIL `）` is not the same parenthesis as `)` OTL
+I spent way to long trying to figure out why my pattern was not matching. TIL `）` is not the same parenthesis as `)` OTL
 
 The following pattern:
 ```python
