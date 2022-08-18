@@ -29,7 +29,7 @@ Where `<url>` is any webpage under [Kanji by Grade Levels](#Kanji by Grade Level
 
 ## Kanji by Grade Levels
 
-* [Grades 1-3](https://proverb-encyclopedia.com/two/teigakunen/#i)
+* [Grades 1-3](https://proverb-encyclopedia.com/two/teigakunen/)
 * [Grades 4-6](https://proverb-encyclopedia.com/two/kougakunen/)
 
 
@@ -48,3 +48,15 @@ Each card format is roughly:
 ```
 
 The card ends when we see a `<hr/>`
+
+### Japanese Regex
+* [Regex patterns for Japanese](https://gist.github.com/terrancesnyder/1345094)
+
+Spent way to long trying to figure out why my pattern was not matching. TIL `）` is not the same parenthesis as `)` OTL
+
+The following pattern:
+```python
+r"([一-龯]+)（([ぁ-ん]+)）"
+```
+
+matches strings like `"約束（やくそく）"`, `"永遠（えいえん）"`, etc.
