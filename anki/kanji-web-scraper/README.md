@@ -108,7 +108,7 @@ There seems to always be at most 2 example sentences.
 ### Japanese Regex
 * [Regex patterns for Japanese](https://gist.github.com/terrancesnyder/1345094)
 
-I spent way to long trying to figure out why my pattern was not matching. TIL `）` is not the same parenthesis as `)` OTL
+I spent way too long trying to figure out why my pattern was not matching. TIL `）` is not the same parenthesis as `)` OTL
 
 The following pattern:
 ```python
