@@ -3,7 +3,7 @@
 This script reads in selected webpages under [Kanji by Grade Levels](#kanji-by-grade-levels) and outputs a `.csv` file with the format:
 
 ```csv
-term,furigana,definition,notes,warnings,examples
+term,furigana,definition,notes,warnings,example1,example2
 ```
 
 ## How to Use
@@ -28,6 +28,16 @@ python scrape_web.py <url>
 Where `<url>` is any webpage under [Kanji by Grade Levels](#kanji-by-grade-levels)
 
 The output file `kanji.csv` will be generated.
+
+For Grades 1-3, run:
+```commandline
+ python scrape_web.py https://proverb-encyclopedia.com/two/teigakunen/
+```
+
+For Grades 4-6, run:
+```commandline
+python scrape_web.py https://proverb-encyclopedia.com/two/kougakunen/
+```
 
 ## Kanji by Grade Levels
 
@@ -78,6 +88,7 @@ There are various types of "notes" (anything that come after the definition in `
   </li>
  </ol>
 ```
+There seems to always be at most 2 example sentences.
 
 * **Supplement normal** (yellow rectangles containing text)
 ```html

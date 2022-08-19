@@ -1,5 +1,5 @@
 import csv
-from dataclasses import dataclass, asdict
+from dataclasses import dataclass, asdict, fields
 import logging
 import re
 import sys
@@ -21,7 +21,8 @@ class KanjiEntry:
     definition: str
     notes: str = ""
     warnings: str = ""
-    examples: str = ""
+    example1: str = ""
+    example2: str = ""
 
 
 def get_kanji_entries(url: str) -> List[KanjiEntry]:
@@ -95,10 +96,23 @@ def get_kanji_entries(url: str) -> List[KanjiEntry]:
                     if current_pos.name == 'p':
                         # Check that this is a list of examples
                         strong_text = current_pos.find("strong")
-                        if strong_text:
-                            if u"例文" in strong_text.get_text():
-                                log.info("Found examples")
-                                # TODO: add examples as a raw HTML string
+                        examples_list = current_pos.find_next_sibling()
+                        if strong_text and examples_list:
+                            if u"例文" in strong_text.get_text() and examples_list.name == "ol":
+                                sentences = examples_list.find_all("li")
+                                log.info(f"Found {len(sentences)} examples")
+                                # Take the first two examples
+                                for i in range(2):
+                                    example_attribute = f"example{i+1}"
+                                    try:
+                                        setattr(kanji_entry, example_attribute, sentences[i].get_text())
+                                    except (IndexError, AttributeError):
+                                        log.warning(f"Failed to set {example_attribute}")
+                                        break
+
+                                log.info(f"Example 1: {kanji_entry.example1}")
+                                log.info(f"Example 2: {kanji_entry.example2}")
+
                     elif current_pos.name == "div":
                         # Either a note or a warning
                         notes_type = current_pos.get("class")
@@ -125,7 +139,8 @@ def get_kanji_entries(url: str) -> List[KanjiEntry]:
 
 def export_to_csv(kanji_entries):
     """Export kanji entries to a csv file"""
-    header = ["term", "furigana", "definition", "notes", "warnings", "examples"]
+    header = [field.name for field in fields(KanjiEntry)]
+    log.info(f"CSV header: {header}")
     outfile_name = "kanji.csv"
     with open(outfile_name, 'w', encoding="UTF8", newline='') as f:
         writer = csv.DictWriter(f, fieldnames=header)
