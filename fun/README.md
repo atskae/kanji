@@ -188,4 +188,5 @@ Keeping track of amusing translations I encountered
 * sin, thin
 * ranch, lunch
 * track, truck
+* Shister, sister
 
