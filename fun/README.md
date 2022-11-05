@@ -60,7 +60,6 @@ Keeping track of amusing translations I encountered
 * 大掃除 - おおそうじ - big cleanup
 * 詰まらない - つまらない - boring = "it doesn't pack (as in fill up)"
 * 茶色 - brown = "tea color"
-* ビックリマーク - exclamation point = "surprise mark"
 
 
 ## 音読み合体
@@ -191,4 +190,8 @@ Keeping track of amusing translations I encountered
 * ranch, lunch
 * track, truck
 * Shister, sister
+
+### Amusing for some reason
+* ケッタマシーン - bicycle in Hokkaido-dialect = "the machine that you kicked"
+* ビックリマーク - exclamation point = "surprise mark"
 
