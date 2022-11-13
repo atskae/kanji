@@ -194,4 +194,6 @@ Keeping track of amusing translations I encountered
 ### Amusing for some reason
 * ケッタマシーン - bicycle in Hokkaido-dialect = "the machine that you kicked"
 * ビックリマーク - exclamation point = "surprise mark"
+* ビアードパパ = "beard papa"
+    * Need to try this someday...
 
