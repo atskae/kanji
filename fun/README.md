@@ -196,4 +196,5 @@ Keeping track of amusing translations I encountered
 * ビックリマーク - exclamation point = "surprise mark"
 * ビアードパパ = "beard papa"
     * Need to try this someday...
+* 国々 - くにぐに - countries = "country country"
 
