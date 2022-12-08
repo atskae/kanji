@@ -202,4 +202,6 @@ Keeping track of amusing translations I encountered
 * ビアードパパ = "beard papa"
     * Need to try this someday...
 * 国々 - くにぐに - countries = "country country"
+* 糞 - ばば - shit, crap (Osaka dialect)
+    * "ちょっとばば行ってくるわ”
 
