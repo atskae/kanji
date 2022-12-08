@@ -154,9 +154,11 @@ Keeping track of amusing translations I encountered
     * り - 了解 = "Ok."
 * バズる - gets popular on the internet
 * したっけ！(good-bye in Hokkaido 方言) comes from じゃあね！ 🤯
+* アザース - thanks
+    * From ありがとうございます
 
 ## From English
-* リスけ - reschedule
+* リスケ - reschedule
     * リスケしてください - Please reschedule.
 * タンマ！ - time out!, wait a minute
     * 🛹🎱🥽
@@ -164,6 +166,8 @@ Keeping track of amusing translations I encountered
 * スタバ - Starbucks
 * マック - McDonalds
     * マクド - Osaka/Kansai-ben
+* ドンマイ - don't worry about it, it's ok
+
 
 ### Funny English
 * Have a nice your life!
@@ -190,6 +194,7 @@ Keeping track of amusing translations I encountered
 * ranch, lunch
 * track, truck
 * Shister, sister
+* bowl, ball
 
 ### Amusing for some reason
 * ケッタマシーン - bicycle in Hokkaido-dialect = "the machine that you kicked"
