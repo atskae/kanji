@@ -206,4 +206,5 @@ Keeping track of amusing translations I encountered
 * 糞 - ばば - shit, crap (Osaka dialect)
     * "ちょっとばば行ってくるわ”
 * マギカルバナナ
+* ケビン - sounds cuter/diminutive
 
