@@ -196,6 +196,7 @@ Keeping track of amusing translations I encountered
 * track, truck
 * Shister, sister
 * bowl, ball
+* sink, think
 
 ### Amusing for some reason
 * ケッタマシーン - bicycle in Hokkaido-dialect = "the machine that you kicked"
