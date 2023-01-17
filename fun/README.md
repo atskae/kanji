@@ -83,6 +83,7 @@ Keeping track of amusing translations I encountered
     * Oh, I guess this could also just mean "in a dream"
 * 電気 - electricty = "electric spirit/feeling"
 * 北海道 - Hokkaido = "north ocean road"
+* 風呂 - ふろ - bath = "wind spine"
 
 ## Looks like what they mean
 * 傘 - かさ
