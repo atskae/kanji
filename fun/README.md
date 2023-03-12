@@ -60,7 +60,7 @@ Keeping track of amusing translations I encountered
 * 大掃除 - おおそうじ - big cleanup
 * 詰まらない - つまらない - boring = "it doesn't pack (as in fill up)"
 * 茶色 - brown = "tea color"
-
+* 車椅子 - くるまいす - wheelchair = "car chair"
 
 ## 音読み合体
 * 大変 - danger! oh-no! there's trouble! = "big strange"
