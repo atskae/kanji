@@ -61,6 +61,7 @@ Keeping track of amusing translations I encountered
 * 詰まらない - つまらない - boring = "it doesn't pack (as in fill up)"
 * 茶色 - brown = "tea color"
 * 車椅子 - くるまいす - wheelchair = "car chair"
+* 色々 - いろいろ - various, all sorts of = "color color"
 
 ## 音読み合体
 * 大変 - danger! oh-no! there's trouble! = "big strange"
