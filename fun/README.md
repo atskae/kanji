@@ -212,4 +212,6 @@ Keeping track of amusing translations I encountered
     * "ちょっとばば行ってくるわ”
 * マギカルバナナ
 * ケビン - sounds cuter/diminutive
+* 紫蘇味噌 - しそみそ - rhymes
+* じゃがバター - rhymes
 
