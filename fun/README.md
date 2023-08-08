@@ -210,7 +210,7 @@ Keeping track of amusing translations I encountered
 * 国々 - くにぐに - countries = "country country"
 * 糞 - ばば - shit, crap (Osaka dialect)
     * "ちょっとばば行ってくるわ”
-* マギカルバナナ
+* マジカルバナナ
 * ケビン - sounds cuter/diminutive
 * 紫蘇味噌 - しそみそ - rhymes
 * じゃがバター - rhymes
