@@ -63,6 +63,7 @@ Keeping track of amusing translations I encountered
 * 車椅子 - くるまいす - wheelchair = "car chair"
 * 色々 - いろいろ - various, all sorts of = "color color"
 * 無茶 - むちゃ - reckless = "no tea"
+* 様々 - さまざま - varied
 
 ## 音読み合体
 * 大変 - danger! oh-no! there's trouble! = "big strange"
@@ -86,6 +87,7 @@ Keeping track of amusing translations I encountered
 * 電気 - electricty = "electric spirit/feeling"
 * 北海道 - Hokkaido = "north ocean road"
 * 風呂 - ふろ - bath = "wind spine"
+* 大根 - だいこん - daikon = "big root"
 
 ## Looks like what they mean
 * 傘 - かさ
