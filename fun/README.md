@@ -64,6 +64,7 @@ Keeping track of amusing translations I encountered
 * 色々 - いろいろ - various, all sorts of = "color color"
 * 無茶 - むちゃ - reckless = "no tea"
 * 様々 - さまざま - varied
+* 片付ける - かたずける - clean up = "stick onto one side"
 
 ## 音読み合体
 * 大変 - danger! oh-no! there's trouble! = "big strange"
