@@ -228,4 +228,5 @@ Keeping track of amusing translations I encountered
 * zanpan sale (残飯整理) "Can we eat out tonight?" -> "Nooo, we have so much zanpan, we have to zanpan sale"
 * accheezis (あちち) "(touches hot stove)" -> "Accheezis!"
 * hehhh-- (へーー) "The woolly mammoth was around when the pyramids were being built." -> "hehhh-- no way"
+* pan (パン) "These cheese pans are sooo good", "I make shokpan today", "I want some melon pans..."
 
