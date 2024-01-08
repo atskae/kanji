@@ -209,6 +209,7 @@ Keeping track of amusing translations I encountered
 
 ### Amusing for some reason
 * ケッタマシーン - bicycle in Hokkaido-dialect = "the machine that you kicked"
+    * "ケッタマシーン乗ろうぜ！”　(non-Hokkaido person) -> ”。。。は？”
 * ビックリマーク - exclamation point = "surprise mark"
 * ビアードパパ = "beard papa"
     * Need to try this someday...
@@ -216,6 +217,8 @@ Keeping track of amusing translations I encountered
 * 糞 - ばば - shit, crap (Osaka dialect)
     * "ちょっとばば行ってくるわ”
 * マジカルバナナ
+    * バナナと言うったら。。。？
+    * The men's World Cup team played this together ecks dee
 * ケビン - sounds cuter/diminutive
 * 紫蘇味噌 - しそみそ - rhymes
 * じゃがバター - rhymes
@@ -228,5 +231,7 @@ Keeping track of amusing translations I encountered
 * zanpan sale (残飯整理) "Can we eat out tonight?" -> "Nooo, we have so much zanpan, we have to zanpan sale"
 * accheezis (あちち) "(touches hot stove)" -> "Accheezis!"
 * hehhh-- (へーー) "The woolly mammoth was around when the pyramids were being built." -> "hehhh-- no way"
-* pan (パン) "These cheese pans are sooo good", "I make shokpan today", "I want some melon pans..."
+* pan (パン) "These cheese pans are sooo addicting", "I tried making shokpan today", "I want some melon pans"
+* 気持ち悪い "(sees a trypophobia-inducing thing)" -> "omggg ewww that's so 気持ち悪い"
+* koi (濃い, not the fish)  "How's the soup?" -> "It's too koi, can you add more water?", "The tea is super koi"
 
