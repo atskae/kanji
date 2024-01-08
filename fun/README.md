@@ -230,8 +230,14 @@ Keeping track of amusing translations I encountered
 * tektou (適当) "I don't have measuring cups" -> "Just tektou it"
 * zanpan sale (残飯整理) "Can we eat out tonight?" -> "Nooo, we have so much zanpan, we have to zanpan sale"
 * accheezis (あちち) "(touches hot stove)" -> "Accheezis!"
-* hehhh-- (へーー) "The woolly mammoth was around when the pyramids were being built." -> "hehhh-- no way"
 * pan (パン) "These cheese pans are sooo addicting", "I tried making shokpan today", "I want some melon pans"
-* 気持ち悪い "(sees a trypophobia-inducing thing)" -> "omggg ewww that's so 気持ち悪い"
 * koi (濃い, not the fish)  "How's the soup?" -> "It's too koi, can you add more water?", "The tea is super koi"
+* kozo (小僧) "Hey (insert name) kozo!"
+* gaki (ガキ) "What a gaki"
+    * gakincho (ガキンチョ) "Such gakinchos"
+
+### Uncategorized 2
+* hehhh-- (へーー) "The woolly mammoth was around when the pyramids were being built." -> "hehhh-- no way"
+* 気持ち悪い "(sees a trypophobia-inducing thing)" -> "omggg ewww that's so 気持ち悪い"
+* 勿体ない "All the strawberries rotted. I'm gonna have to throw them all out" -> "That's so 勿体ない..."
 
