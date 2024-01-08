@@ -177,7 +177,6 @@ Keeping track of amusing translations I encountered
 * アラサー in アラサー男 comes from “around thirty” アラウンドサーチー
     * [Other age ranges](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A9%E3%82%B5%E3%83%BC#%E3%80%8C%E3%82%A2%E3%83%A9%E3%80%8D%E3%82%92%E6%8F%B4%E7%94%A8%E3%81%97%E3%81%9F%E5%B9%B4%E9%BD%A2%E3%82%92%E8%A1%A8%E3%81%99%E8%A8%80%E8%91%89) 
 * クレカ - credit card
-* バードウォッチング
 
 ### Funny English
 * Have a nice your life!
@@ -219,6 +218,7 @@ Keeping track of amusing translations I encountered
 * ケビン - sounds cuter/diminutive
 * 紫蘇味噌 - しそみそ - rhymes
 * じゃがバター - rhymes
+* バードウォッチング - no fancy kanjis or anything
 
 ### Uncategorized 1
 * mendox (めんどくさい) "I'd have to drive 45 minutes there, then come back, then drive 45 minutes the other way" -> "That's so mendox"
