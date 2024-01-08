@@ -225,3 +225,5 @@ Keeping track of amusing translations I encountered
 * mendox (めんどくさい) "I'd have to drive 45 minutes there, then come back, then drive 45 minutes the other way" -> "That's so mendox"
 * skosh (少し) "Can you pour me some juice?" -> "Not that much, I only want skosh"
 * tektou (適当) "I don't have measuring cups" -> "Just tektou it"
+* zanpan sale (残飯整理) "Can we eat out tonight?" -> "Nooo, we have so much zanpan, we have to zanpan sale"
+
