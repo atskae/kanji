@@ -89,6 +89,7 @@ Keeping track of amusing translations I encountered
 * 北海道 - Hokkaido = "north ocean road"
 * 風呂 - ふろ - bath = "wind spine"
 * 大根 - だいこん - daikon = "big root"
+* 喜々 - きき - joyful = "happy happy"
 
 ## Looks like what they mean
 * 傘 - かさ
@@ -218,3 +219,7 @@ Keeping track of amusing translations I encountered
 * 紫蘇味噌 - しそみそ - rhymes
 * じゃがバター - rhymes
 
+### Uncategorized 1
+* mendox (めんどくさい) "I'd have to drive 45 minutes there, then come back, then drive 45 minutes the other way" -> "That's so mendox"
+* skosh (少し) "Can you pour me some juice?" -> "Not that much, I only want skosh"
+* tektou (適当) "I don't have measuring cups" -> "Just tektou it"
