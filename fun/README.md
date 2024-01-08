@@ -90,6 +90,7 @@ Keeping track of amusing translations I encountered
 * 風呂 - ふろ - bath = "wind spine"
 * 大根 - だいこん - daikon = "big root"
 * 喜々 - きき - joyful = "happy happy"
+* 神話 - しんわ - myth, legend = "god story"
 
 ## Looks like what they mean
 * 傘 - かさ
