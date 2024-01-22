@@ -65,6 +65,9 @@ Keeping track of amusing translations I encountered
 * 無茶 - むちゃ - reckless = "no tea"
 * 様々 - さまざま - varied
 * 片付ける - かたずける - clean up = "stick onto one side"
+* 耳くそ - ear wax = "ear poop"
+* 鼻くそ - boogers = "nose poop"
+* 鼻水 - はなみず - mucus, snot = "nose water"
 
 ## 音読み合体
 * 大変 - danger! oh-no! there's trouble! = "big strange"
@@ -91,6 +94,7 @@ Keeping track of amusing translations I encountered
 * 大根 - だいこん - daikon = "big root"
 * 喜々 - きき - joyful = "happy happy"
 * 神話 - しんわ - myth, legend = "god story"
+* 中耳炎 - ちゅうじえん - ear infection = "inside ear on fire"
 
 ## Looks like what they mean
 * 傘 - かさ
@@ -206,6 +210,9 @@ Keeping track of amusing translations I encountered
 * Shister, sister
 * bowl, ball
 * sink, think
+* bridge, bleach
+* run, learn
+* ~~all the, older~~ Ok slightly different
 
 ### Amusing for some reason
 * ケッタマシーン - bicycle in Hokkaido-dialect = "the machine that you kicked"
