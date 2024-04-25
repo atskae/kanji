@@ -68,6 +68,7 @@ Keeping track of amusing translations I encountered
 * 耳くそ - ear wax = "ear poop"
 * 鼻くそ - boogers = "nose poop"
 * 鼻水 - はなみず - mucus, snot = "nose water"
+* お腹を壊す - おなかをこわす - to have an upset stomach = "break your stomach"
 
 ## 音読み合体
 * 大変 - danger! oh-no! there's trouble! = "big strange"
@@ -213,6 +214,12 @@ Keeping track of amusing translations I encountered
 * bridge, bleach
 * run, learn
 * ~~all the, older~~ Ok slightly different
+* burn, barn
+    * Book Barn sounded like Book Burn
+* earth, arse
+* pasta, pastor
+* rubber, lover
+* sermon, salmon
 
 ### Amusing for some reason
 * ケッタマシーン - bicycle in Hokkaido-dialect = "the machine that you kicked"
@@ -242,9 +249,16 @@ Keeping track of amusing translations I encountered
 * kozo (小僧) "Hey (insert name) kozo!"
 * gaki (ガキ) "What a gaki"
     * gakincho (ガキンチョ) "Such gakinchos"
+* die jobs (大丈夫) "Hey, you ok?" -> "Yeah I'm die jobs"
+* maboosh (眩しい) "(Direct sunlight hits eyes) Aagh it's so ma-boosh!"
 
 ### Uncategorized 2
 * hehhh-- (へーー) "The woolly mammoth was around when the pyramids were being built." -> "hehhh-- no way"
 * 気持ち悪い "(sees a trypophobia-inducing thing)" -> "omggg ewww that's so 気持ち悪い"
 * 勿体ない "All the strawberries rotted. I'm gonna have to throw them all out" -> "That's so 勿体ない..."
 
+### Jokes
+* (gets locked out) しまった！ 仕舞った！
+* パン作った。パンツ食った。
+* (a vegetarian joke) "一番好きな肉は何？" -> "ニンニク"
+    * (adapted for vegan) "一番好きな肉は何？" -> "ニンニク"
