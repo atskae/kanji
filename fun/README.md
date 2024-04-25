@@ -256,7 +256,6 @@ Keeping track of amusing translations I encountered
 * hehhh-- (へーー) "The woolly mammoth was around when the pyramids were being built." -> "hehhh-- no way"
 * 気持ち悪い "(sees a trypophobia-inducing thing)" -> "omggg ewww that's so 気持ち悪い"
 * 勿体ない "All the strawberries rotted. I'm gonna have to throw them all out" -> "That's so 勿体ない..."
-* 勿体ない "All the strawberries rotted. I'm gonna have to throw them all out" -> "That's so 勿体ない..."]
 * 具（ぐ）”Wow, this pasta has a lot ぐ in it."
 * バカ　"The gomu in these pants are バカ now so they slip off very easily."
 * カンチョー　（かんちょー）”These カンチョー　pants are tight so when I sit they カンチョー me. They are very uncomfortable.
