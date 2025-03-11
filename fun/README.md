@@ -226,6 +226,8 @@ Keeping track of amusing translations I encountered
 * pasta, pastor
 * rubber, lover
 * sermon, salmon
+* Thoreau (as in Henry David), solo
+* Stamford, Stanford
 
 ### Amusing for some reason
 * ケッタマシーン - bicycle in Hokkaido-dialect = "the machine that you kicked"
@@ -247,6 +249,7 @@ Keeping track of amusing translations I encountered
 * Shu cream (sounds like "shoe cream")
     * "I want some shu creams right now"
 * Cream sand (クリームサンド)
+* A search engine called Cylavell
 
 ### Uncategorized 1
 * mendox (めんどくさい) "I'd have to drive 45 minutes there, then come back, then drive 45 minutes the other way" -> "That's so mendox"
