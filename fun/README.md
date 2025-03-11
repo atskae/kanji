@@ -69,6 +69,9 @@ Keeping track of amusing translations I encountered
 * 鼻くそ - boogers = "nose poop"
 * 鼻水 - はなみず - mucus, snot = "nose water"
 * お腹を壊す - おなかをこわす - to have an upset stomach = "break your stomach"
+* 千切り - せんぎり - thin cuts, shredded (vegetables) = "thousand cuts"
+* 目玉焼き - めだまやき - fried egg = "eyeball fried"
+* 出来上がり - できあがり - completed
 
 ## 音読み合体
 * 大変 - danger! oh-no! there's trouble! = "big strange"
@@ -183,6 +186,7 @@ Keeping track of amusing translations I encountered
 * アラサー in アラサー男 comes from “around thirty” アラウンドサーチー
     * [Other age ranges](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A9%E3%82%B5%E3%83%BC#%E3%80%8C%E3%82%A2%E3%83%A9%E3%80%8D%E3%82%92%E6%8F%B4%E7%94%A8%E3%81%97%E3%81%9F%E5%B9%B4%E9%BD%A2%E3%82%92%E8%A1%A8%E3%81%99%E8%A8%80%E8%91%89) 
 * クレカ - credit card
+* ベビーカー - stroller
 
 ### Funny English
 * Have a nice your life!
@@ -237,6 +241,10 @@ Keeping track of amusing translations I encountered
 * 紫蘇味噌 - しそみそ - rhymes
 * じゃがバター - rhymes
 * バードウォッチング - no fancy kanjis or anything
+* "やばさが分かる" (#277, 7:53)
+* Shu cream (sounds like "shoe cream")
+    * "I want some shu creams right now"
+* Cream sand (クリームサンド)
 
 ### Uncategorized 1
 * mendox (めんどくさい) "I'd have to drive 45 minutes there, then come back, then drive 45 minutes the other way" -> "That's so mendox"
@@ -251,6 +259,11 @@ Keeping track of amusing translations I encountered
     * gakincho (ガキンチョ) "Such gakinchos"
 * die jobs (大丈夫) "Hey, you ok?" -> "Yeah I'm die jobs"
 * maboosh (眩しい) "(Direct sunlight hits eyes) Aagh it's so ma-boosh!"
+* chak (チャック)　"Your chak is open"
+* hazkash (恥ずかしい) "Your chak is open" -> "That's so hazkash!"
+* hen (変) "Does this look hen?"
+* soozoosh (涼しい) "Can you close the window? It's kind of soozoosh."
+* batan-Q, batan kyu (バタンキュー) "I stayed up so late so I batan-Q'd when I got home"
 
 ### Uncategorized 2
 * hehhh-- (へーー) "The woolly mammoth was around when the pyramids were being built." -> "hehhh-- no way"
@@ -259,9 +272,11 @@ Keeping track of amusing translations I encountered
 * 具（ぐ）”Wow, this pasta has a lot ぐ in it."
 * バカ　"The gomu in these pants are バカ now so they slip off very easily."
 * カンチョー　（かんちょー）”These カンチョー　pants are tight so when I sit they カンチョー me. They are very uncomfortable.
+* 整理 (せいり) "My bookshelf is so unorganized, I need to せいり this"
 
 ### Jokes
 * (gets locked out) しまった！ 仕舞った！
 * パン作った。パンツ食った。
 * (a vegetarian joke) "一番好きな肉は何？" -> "ニンニク"
     * (adapted for vegan) "一番好きな肉は何？" -> "ニンニク"
+* A 小僧 with his 小像
