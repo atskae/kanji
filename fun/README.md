@@ -133,6 +133,8 @@ Keeping track of amusing translations I encountered
     * 甲虫 - かぶとむし
     * 曲 - きょく - song 
 * 万 - 10,000; 方 - ほう - way, direction
+* 入, 人
+* 玉, 王
 
 ## Weird-looking
 * 凹凸 - おうとつ - unevenness = "concave convex"
