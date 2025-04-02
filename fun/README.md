@@ -269,6 +269,7 @@ Keeping track of amusing translations I encountered
 * hen (変) "Does this look hen?"
 * soozoosh (涼しい) "Can you close the window? It's kind of soozoosh."
 * batan-Q, batan kyu (バタンキュー) "I stayed up so late so I batan-Q'd when I got home"
+* natskash (懐かしい) "Pokémon music is so natskash"
 
 ### Uncategorized 2
 * hehhh-- (へーー) "The woolly mammoth was around when the pyramids were being built." -> "hehhh-- no way"
