@@ -174,6 +174,8 @@ Keeping track of amusing translations I encountered
 * したっけ！(good-bye in Hokkaido 方言) comes from じゃあね！ 🤯
 * アザース - thanks
     * From ありがとうございます
+* ググる - to google something, do an online search
+    * "これをググると、これが出てくるんですよ。”
 
 ## From English
 * リスケ - reschedule
