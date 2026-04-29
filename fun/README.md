@@ -252,6 +252,7 @@ Keeping track of amusing translations I encountered
     * "I want some shu creams right now"
 * Cream sand (クリームサンド)
 * A search engine called Cylavell
+* 筋トレ - きんとれ - strength training
 
 ### Uncategorized 1
 * mendox (めんどくさい) "I'd have to drive 45 minutes there, then come back, then drive 45 minutes the other way" -> "That's so mendox"
