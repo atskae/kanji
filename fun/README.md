@@ -254,6 +254,7 @@ Keeping track of amusing translations I encountered
 * A search engine called Cylavell
 * 筋トレ - きんとれ - strength training
 * とっとと - right now
+* ギクシャク - awkward/stiff (movements, speech)
 
 ### Uncategorized 1
 * mendox (めんどくさい) "I'd have to drive 45 minutes there, then come back, then drive 45 minutes the other way" -> "That's so mendox"
