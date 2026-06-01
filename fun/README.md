@@ -207,6 +207,8 @@ Keeping track of amusing translations I encountered
 * ロマン - can also mean "impossible dream", "adventure spirit"
     * That saying from One Piece makes sense now...
 * バイク - motorcycle, *not* a bike
+* バイキング - buffet, all you can eat
+    * *Not* biking
 
 ### Same Phonetic
 * lice, rice
@@ -230,6 +232,7 @@ Keeping track of amusing translations I encountered
 * sermon, salmon
 * Thoreau (as in Henry David), solo
 * Stamford, Stanford
+* glass, grass
 
 ### Amusing for some reason
 * ケッタマシーン - bicycle in Hokkaido-dialect = "the machine that you kicked"
@@ -255,6 +258,12 @@ Keeping track of amusing translations I encountered
 * 筋トレ - きんとれ - strength training
 * とっとと - right now
 * ギクシャク - awkward/stiff (movements, speech)
+* やまやま - wanting to do something but can't
+    * Example: wanting to attend a friend's event but can't make it
+    * やまやま行きたかったけど
+* ドタキャン - last-minute cancellation
+    * From どたんば - last moment, キャンセル
+    * Inspired by the biggest flaker in my life right now (2026)
 
 ### Uncategorized 1
 * mendox (めんどくさい) "I'd have to drive 45 minutes there, then come back, then drive 45 minutes the other way" -> "That's so mendox"
